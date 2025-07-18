@@ -1,2 +1,7 @@
 # Github-Poll-Bot
-simple bot to run polls in your Github server. 
+
+## Simple bot to run polls in your Github server. 
+my first Discord bot! 
+
+## Usage
+!poll "Question" "Option1" "Option2" "Option3" ...
